@@ -4,6 +4,7 @@
 
 <div align="center">
   <img src="images/ONE_logo_rgb.png" alt="Logo do Idealizador - Oracle Next Education ONE" width="50%">
+  <img src="images/badge literalura.png" alt="Imagem da badge" width="50%">
 </div>
 
 ## Java e Spring Boot T6 - ONE <br>
